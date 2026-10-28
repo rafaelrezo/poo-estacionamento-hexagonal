@@ -1,0 +1,13 @@
+entrada registrada: ABC1D23 às 08:00 (vagas livres: 1)
+entrada registrada: XYZ9876 às 08:00 (vagas livres: 0)
+erro: pátio lotado
+erro: ABC1D23 já está no pátio
+relógio: 08:10
+saída registrada: XYZ9876 | 10 min | R$ 0,00
+relógio: 09:35
+saída registrada: ABC1D23 | 95 min | R$ 16,00
+erro: não há entrada aberta para ABC1D23
+erro: placa inválida: placa-invalida
+vagas livres: 2 de 2
+ABC1D23 | 08:00 -> 09:35 | 95 min | R$ 16,00
+XYZ9876 | 08:00 -> 08:10 | 10 min | R$ 0,00

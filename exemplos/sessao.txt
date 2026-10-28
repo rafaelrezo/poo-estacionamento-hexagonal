@@ -1,0 +1,13 @@
+# Sessão de demonstração: execute com --vagas 2 --relogio simulado
+entrada ABC1D23
+entrada xyz-9876
+entrada QWE1R23
+entrada ABC1D23
+avancar 10
+saida XYZ9876
+avancar 85
+saida ABC1D23
+saida ABC1D23
+entrada placa-invalida
+vagas
+historico
